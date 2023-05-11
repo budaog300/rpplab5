@@ -1,4 +1,5 @@
 import os
+'Version 3'
 
 
 def count(path):
@@ -137,7 +138,7 @@ class Counter(Main):
 
 
 if __name__ == '__main__':
-    path = "E:\!!!\Pythonlabs\Лабораторные работы"
+    path = "E:\!!!\РПП\Лабораторные работы"
     directory = "data.csv"
     output = "yet.csv"
     count(path)
