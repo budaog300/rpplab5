@@ -190,4 +190,3 @@ if __name__ == '__main__':
     print('Сортировка по критерию:')
     for r in data.sorted_dif('Артроз коленного сустава'):
         print(r)
-damn
