@@ -1,5 +1,5 @@
 import os
-'Version 3'
+'Version 2'
 
 
 def count(path):
